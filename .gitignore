@@ -1,0 +1,24 @@
+# 빌드 결과
+bin/
+obj/
+dist/
+dist_build/
+patched/
+out/
+verify/
+
+# 게임 원본 데이터 (저작권 - 절대 올리지 않음)
+backup/
+han/
+jpn/
+main/
+tsv/
+tsv2/
+*.BIN
+*.IDX
+*.kofix_backup
+issues*.tsv
+
+# 기타
+__pycache__/
+*.tmp

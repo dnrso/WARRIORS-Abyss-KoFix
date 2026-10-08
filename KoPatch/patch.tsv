@@ -1,0 +1,224 @@
+42	273.0	\eCE%s\eS1구획\eR 사이에 \eCE위험지대\eR가 \eCC발생하지 않음\eR	\eCE%s\eS1구획\eR 동안 \eCE위험지대\eR가 \eCC발생하지 않음\eR
+42	287.0	%s\eS1구획 사이에 반드시 \eCE위험지대\eR\eCD 발생\eR	%s\eS1구획 동안 반드시 \eCE위험지대\eR\eCD 발생\eR
+42	288.0	\eCE구획\eR마다 \eCE차지공격 \eR\eUF공격력 \eCC+%s\eS0%%\eR(최대 %s\eS2%%)	\eCE구획을 돌파\eR할 때마다 \eCE차지공격\eR \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	296.0	%s\eS2구획 사이에서 무쌍 게이지 획득량 \eCD-%s\eS0%%\eR	%s\eS2구획 동안 무쌍 게이지 획득량 \eCD-%s\eS0%%\eR
+42	298.0	%s\eS2구획 사이에서 동시 소환 게이지 획득량 \eCD-%s\eS0%%\eR	%s\eS2구획 동안 동시 소환 게이지 획득량 \eCD-%s\eS0%%\eR
+42	366.0	날려버린 적에게 추격하는 \eCE낙뢰\eR 발생	날려버린 적에게 \eCC뇌속성\eR \eCE추가 피해\eR 발생
+42	490.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	601.0	조작 중인 영걸 및 소환기의 \eUI공격범위\eCC＋1단계\eR	조작 중인 영걸 및 소환기의 \eUI공격범위 \eCC+1단계\eR
+42	602.0	조작 중인 영걸 및 소환기의 \eUI공격범위\eCC＋2단계\eR	조작 중인 영걸 및 소환기의 \eUI공격범위 \eCC+2단계\eR
+42	603.0	조작 중인 영걸 및 소환기의 \eUI공격범위\eCC＋3단계\eR	조작 중인 영걸 및 소환기의 \eUI공격범위 \eCC+3단계\eR
+42	712.0	\eCEEX공격\eR을 사용이 가능/신속공격에\eCC속성을 부여\eR 	\eCEEX공격\eR 사용 가능/신속공격에 \eCC속성 부여\eR
+42	742.0	%s\eS1초간 1회 \eUE체력이 0이 되는 공격을 받아도 \eCC죽지 않음\eR	%s\eS1초마다 1회 \eUE체력이 0이 되는 공격을 받아도 \eCC죽지 않음\eR
+42	774.0	조작 중인 영걸 및 소환기의 공격범위\eCC＋1단계\eR	조작 중인 영걸 및 소환기의 공격범위 \eCC+1단계\eR
+42	775.0	조작 중인 영걸 및 소환기의 공격범위\eCC＋2단계\eR	조작 중인 영걸 및 소환기의 공격범위 \eCC+2단계\eR
+42	776.0	조작 중인 영걸 및 소환기의 공격범위\eCC＋3단계\eR	조작 중인 영걸 및 소환기의 공격범위 \eCC+3단계\eR
+42	778.0	속성 공격력 \eCC+%s\eS0%%\eR	모든 속성 공격력 \eCC+%s\eS0%%\eR
+42	779.0	\eCE회복 \eR, \eCC%s\eS3초간 \eR\eUF공격력과 \eUG방어력\eCC +%s\eS1%%\eR	\eCE회피 후\eR \eCC%s\eS3초간\eR \eUF공격력과 \eUG방어력 \eCC+%s\eS1%%\eR
+42	1682.0	적의 \eCE장벽\eR을 파괴하면\eCC뇌속성\eR \eCE추가 피해\eR 발생	적의 \eCE장벽\eR을 파괴하면 \eCC뇌속성\eR \eCE추가 피해\eR 발생
+42	1686.0	적을 공격하면 주위 적에게 \eCE화상 상태\eR로 만드는 폭발 발생	적을 격파하면 주위의 적을 \eCE화상 상태\eR로 만드는 폭발 발생
+42	1800.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	1855.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	2632.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2633.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2634.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2635.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2636.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2637.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2638.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2639.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2640.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2641.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2642.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2643.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2644.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2645.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2646.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2647.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2648.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2649.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2650.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2651.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2652.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2653.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2671.0	동시 소환 발동 시 지속적으로 회복	동시 소환 중 체력이 지속적으로 회복
+42	2872.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2874.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2876.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2878.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2880.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2882.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2884.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2886.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2888.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2890.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2892.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 증가
+42	2902.0	미션의 \eCE격파 목표 수 \eR\eCD-%s\eS0초\eR	미션의 \eCE격파 목표 수\eR \eCD+%s\eS0체\eR
+42	2903.0	적의 \eCE체력\eR과\eCE장벽\eR \eCD+%s\eS0%%\eR	적의 \eCE체력\eR과 \eCE장벽\eR \eCD+%s\eS0%%\eR
+42	2945.0	미션의 \eCE격파 목표 수 \eR\eCD-%s\eS0초\eR	미션의 \eCE격파 목표 수\eR \eCD+%s\eS0체\eR
+42	2946.0	적의 \eCE체력\eR과\eCE장벽\eR \eCD+%s\eS0%%\eR	적의 \eCE체력\eR과 \eCE장벽\eR \eCD+%s\eS0%%\eR
+42	3016.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3017.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3018.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3019.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3020.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3021.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3022.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3023.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3024.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3025.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3026.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3038.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3039.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3040.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3041.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3042.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3043.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3044.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3045.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3046.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3047.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3048.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3058.0	적에게 \eCE%s\eS0을 부여하면 \eCE%s\eS0초간 \eR\eUF공격력 \eCC+%s\eS1%%\eR	적에게 \eCE%s\eS0\eR을(를) 부여하면 \eCC%s\eS2초간\eR \eUF공격력 \eCC+%s\eS1%%\eR
+42	3068.0	영걸 소환 시 \eCE같은 소환기\eR을(를) 보유한 영걸도 함께 소환됨	영걸 소환 시 \eCE같은 소환기\eR를 보유한 영걸도 함께 소환됨
+42	3069.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	3077.0	적의 \eCE체력\eR과\eCE장벽\eR \eCD+%s\eS0%%\eR	적의 \eCE체력\eR과 \eCE장벽\eR \eCD+%s\eS0%%\eR
+42	3092.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3093.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3094.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의\n\eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의\n\eUF공격력 \eCD-%s\eS1%%\eR
+42	3095.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3096.0	\eCE「%s\eS0」\eR 표식을 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR을(를) 가지고 있지 않은 소환 영걸의 \eUF공격력 \eCD-%s\eS1%%\eR
+42	3097.0	도전 시의 영걸이 가진 능력계 증표 내용이 \eCE랜덤\eR으로 변경된다	도전할 때마다 영걸이 가진 능력 계열 증표가 \eCE무작위\eR로 바뀐다
+42	3098.0	구획을 돌파할 때 마다 조작 영걸이 편성되지 않은 \eCE랜덤\eR영걸로 변경된다	구획을 돌파할 때마다 조작 영걸이 편성하지 않은 영걸 중에서 \eCE무작위\eR로 바뀐다
+42	3115.0	\eCE「%s\eS0」\eR 표식을 가진 영걸이 \eCE정파리의 어린나무\eR에서 출현할 확률 대폭 증가	증표 \eCE「%s\eS0」\eR의 \eCE정파리의 어린나무\eR가 출현할 확률 대폭 증가
+42	3128.0	동시 소환 발동 시 지속적으로 회복	동시 소환 중 체력이 지속적으로 회복
+42	3132.0	\eCE통상공격\eR 과 \eCE차지 공격\eR 후에 폭발하여 주위의 적을 \eCE화상 상태\eR로 만드는 \eCE추가 피해\eR 발생	\eCE통상공격\eR과 \eCE차지공격\eR 후에 폭발하여 주위의 적을 \eCE화상 상태\eR로 만드는 \eCE추가 피해\eR 발생
+42	3150.0	조작 영걸이 현재 발동중인 \eCE고유 전법과 관련된 \eCE증표를 지닌 영웅\eR으로 간주한다	조작 영걸이 발동 중인 모든 \eCE고유 전법\eR에서 \eCE증표를 지닌 영걸\eR로 간주된다
+42	3156.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	3242.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	3328.0	소지 중인 피눈물 개당 \eUF공격력 \eCC+%s\eS1%%\eR(최대 %s\eS2%%)	부활할 때마다 \eUF공격력 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	3365.0	날려버린 적에게 추격하는 \eCE낙뢰\eR 발생	날려버린 적에게 \eCC뇌속성\eR \eCE추가 피해\eR 발생
+42	3627.0	증표 \eCE「%s\eS0」\eR을(를) 보유한 영걸의 소환 대기 시간 \eCC-%s\eS1%%\eR 및 공격력 \eCC+%s\eS2%%\eR	증표 \eCE「%s\eS0」\eR을(를) 보유한 영걸의 소환 대기 시간 \eCC-%s\eS1%%\eR 및 속성 공격력 \eCC+%s\eS2%%\eR
+42	3650.0	속성 공격력 \eCC+%s\eS0%%\eR	모든 속성 공격력 \eCC+%s\eS0%%\eR
+42	3726.0	적의 \eCE장벽\eR을 파괴하면\eCC뇌속성\eR \eCE추가 피해\eR 발생	적의 \eCE장벽\eR을 파괴하면 \eCC뇌속성\eR \eCE추가 피해\eR 발생
+42	3730.0	적을 공격하면 주위 적에게 \eCE화상 상태\eR로 만드는 폭발 발생	적을 격파하면 주위의 적을 \eCE화상 상태\eR로 만드는 폭발 발생
+42	3826.0	적의 \eCE장벽\eR을 파괴하면\eCC뇌속성\eR \eCE추가 피해\eR 발생	적의 \eCE장벽\eR을 파괴하면 \eCC뇌속성\eR \eCE추가 피해\eR 발생
+42	3849.0	진형 슬롯 보너스 효과 \eCC２배\eR	진형 슬롯 보너스 효과 \eCC2배\eR
+42	3913.0	\eCE구획\eR마다 \eCE차지공격 \eR\eUF공격력 \eCC+%s\eS0%%\eR(최대 %s\eS2%%)	\eCE구획을 돌파\eR할 때마다 \eCE차지공격\eR \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	3920.0	\eCE구획\eR마다 \eCE차지공격 \eR\eUF공격력 \eCC+%s\eS0%%\eR(최대 %s\eS2%%)	\eCE구획을 돌파\eR할 때마다 \eCE차지공격\eR \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	3944.0	\eCE구획\eR마다 \eCE차지공격 \eR\eUF공격력 \eCC+%s\eS0%%\eR(최대 %s\eS2%%)	\eCE구획을 돌파\eR할 때마다 \eCE차지공격\eR \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	3959.0	유보\eCE「%s\eS0」\eR를 소지하고 있을 경우 \n모든 속성계 증표 \eCC＋%s\eS1%%\eR	유보 \eCE「%s\eS0」\eR를 소지하고 있을 경우\n모든 속성 계열 증표의 소지 수 \eCC+%s\eS1%%\eR
+42	3965.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC증가한다\eR
+42	3966.0	증표 \eCE「%s\eS0」\eR 1개당\n적 \eCE장벽\eR에 대한\eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당\n적 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+42	3968.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC증가한다\eR
+42	3974.0	유보\eCE「%s\eS0」\eR를 소지하고 있을 경우 \n모든 속성계 증표 \eCC＋%s\eS1%%\eR	유보 \eCE「%s\eS0」\eR를 소지하고 있을 경우\n모든 속성 계열 증표의 소지 수 \eCC+%s\eS1%%\eR
+42	3980.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC증가한다\eR
+42	3981.0	증표 \eCE「%s\eS0」\eR 1개당\n적 \eCE장벽\eR에 대한\eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당\n적 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+42	3983.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC증가한다\eR
+42	4111.0	교대가 종료되면, \eCE교대 게이지\eR가 랜덤한 양만큼\eCC상승한다\eR	교대가 종료되면 \eCE교대 게이지\eR가 랜덤한 양만큼 \eCC상승한다\eR
+42	4119.0	\eCE위험지대\eR에서 전투개시 시 \eUE체력을 \eCC%s\eS0+%%\eR	\eCE위험지대\eR에서 전투개시 시 \eUE체력 \eCC%s\eS0%% 회복\eR
+42	4140.0	진형 \eCE「%s\eS0」\eR 장착 중 증표 \eCE「%s\eS1」\eR 1개당 \eUF공격 및 \eUG방어 \eCC+%s\eS2%%\eR	진형 \eCE「%s\eS0」\eR 장착 중 증표 \eCE「%s\eS1」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS2%%\eR
+42	4164.0	진형 \eCE「%s\eS0」\eR 장착 중 증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS2%%\eR	진형 \eCE「%s\eS0」\eR 장착 중 증표 \eCE「%s\eS1」\eR 1개당 \eUF공격력 \eCC+%s\eS2%%\eR
+42	4173.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 동시 소환 중 \eUF공격력 및 \eUG방어력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 동시 소환 중 \eUF공격력 및 \eUG방어력 \eCC+%s\eS0%%\eR
+42	4182.0	\eCE회복 \eR, \eCC%s\eS3초간 \eR\eUF공격력과 \eUG방어력\eCC +%s\eS1%%\eR	\eCE회피 후\eR \eCC%s\eS3초간\eR \eUF공격력과 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4185.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 \eCE교대 중\eR \eUF공격력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 \eCE교대 중\eR \eUF공격력 \eCC+%s\eS0%%\eR
+42	4210.0	해당 \eCE수행 특성 \eR발동 후 \eCE%s\eS2구획\eR 사이 소환 대기 시간 \eCC-%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 소환 대기 시간 \eCC-%s\eS0%%\eR
+42	4212.0	동시 소환을 발동할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%)	동시 소환을 발동할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	4233.0	\eCE%s\eS1구획\eR 사이에 \eCE위험지대\eR가 \eCC발생하지 않음\eR	\eCE%s\eS1구획\eR 동안 \eCE위험지대\eR가 \eCC발생하지 않음\eR
+42	4236.0	\eCE「\t분발」\eR 발동 시에 \eCC%s\eS3초간\eR \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR	\eCE「분발」\eR 발동 시에 \eCC%s\eS3초간\eR \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4245.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 적의 \eCE공격을 받지 않고\eR 구획을 돌파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 적의 \eCE공격을 받지 않고\eR 구획을 돌파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4254.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS3구획\eR 사이 \eCE%s\eS0 상태의 적\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS4구획\eR 동안 \eCE%s\eS0 상태의 적\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+42	4257.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS3구획\eR 사이 \eUF공격력 \eCC+%s\eS0%%\eR 공격 속도 \eCC+%s\eS1%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS3구획\eR 동안 \eUF공격력 \eCC+%s\eS0%%\eR, 공격 속도 \eCC+%s\eS1%%\eR
+42	4264.0	\eCE회복 \eR, \eCC%s\eS3초간 \eR\eUF공격력과 \eUG방어력\eCC +%s\eS1%%\eR	\eCE회피 후\eR \eCC%s\eS3초간\eR \eUF공격력과 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4297.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 \eCE교대 중\eR \eUF공격력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 \eCE교대 중\eR \eUF공격력 \eCC+%s\eS0%%\eR
+42	4328.0	\eCE강적\eR을 격파하면 \eCC%s\eS2초간\eR 공격을 막는 장벽을 친다	\eCE이름이 표시된 적\eR을 격파하면 \eCC%s\eS2초간\eR 공격을 막는 장벽을 친다
+42	4335.0	해당 \eCE수행 특성 \eR발동 후 \eCE%s\eS2구획\eR 사이 소환 대기 시간 \eCC-%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 소환 대기 시간 \eCC-%s\eS0%%\eR
+42	4339.0	\eCE교대 중\eR \eUF공격 및 적의 \eCE장벽\eR에 대한 \eUF 공격력 \eCC+%s\eS0%%\eR	\eCE교대 중\eR \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4345.0	%s\eS1구획 동안\eR \eCE위험지대\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR 획득	%s\eS1구획 동안 \eCE위험지대\eR를 돌파할 때마다 \eCE\eUD파리의 물방울\eR 획득
+42	4350.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 조작 영걸의 \eUF공격 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 조작 영걸의 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4354.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 조작 영걸의 \eUF공격 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 조작 영걸의 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4374.0	\eCE「\t분발」\eR 발동 시에 \eCC%s\eS3초간\eR \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR	\eCE「분발」\eR 발동 시에 \eCC%s\eS3초간\eR \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4376.0	\eCE찬란히 빛나는 복숭아나무\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR \eCC%s\eS0개\eR 획득	\eCE강하게 빛나는 정파리의 어린나무\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR \eCC%s\eS0개\eR 획득
+42	4390.0	\eCE교대 중\eR \eUF공격 및 적의 \eCE장벽\eR에 대한 \eUF 공격력 \eCC+%s\eS0%%\eR	\eCE교대 중\eR \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4393.0	\eCE%s\eS0 상태\eR의 적을 공격하면 주위의 적에게 피해를 주는 폭발 발생	\eCE%s\eS0 상태\eR의 적을 공격하면 주위의 적을 \eCE%s\eS0 상태\eR로 만드는 폭발 발생
+42	4396.0	\eCE교대 게이지\eR가 서서히\eCC상승한다\eR	\eCE교대 게이지\eR가 서서히 \eCC상승한다\eR
+42	4404.0	\eCE위험지대\eR에서 전투개시 시 \eUE체력을 \eCC%s\eS0+%%\eR	\eCE위험지대\eR에서 전투개시 시 \eUE체력 \eCC%s\eS0%% 회복\eR
+42	4410.0	\eCE레벨업\eR할 때마다 \eUF공격력\eCC +%s\eS0%\eR (최대 %s\eS2%)	\eCE레벨업\eR할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	4413.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 각 구획 전투개시 시 \eCE교대 게이지 \eR\eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 각 구획 전투개시 시 \eCE교대 게이지\eR \eCC+%s\eS0%%\eR
+42	4419.0	\eCE위험지대\eR를 돌파할 때마다 \eCE교대 게이지 \eR\eCC+%s\eS0\eR (최대 %s\eS1%)	\eCE위험지대\eR를 돌파할 때마다 \eCE교대 게이지\eR \eCC+%s\eS0%%\eR
+42	4438.0	\eCE강적\eR을 돌파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%)	\eCE강적\eR을 격파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	4441.0	\eCE회복 \eR, \eCC%s\eS3초간 \eR\eUF공격력과 \eUG방어력\eCC +%s\eS1%%\eR	\eCE회피 후\eR \eCC%s\eS3초간\eR \eUF공격력과 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4447.0	\eCE강적\eR을 돌파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%)	\eCE강적\eR을 격파할 때마다 \eUF공격력 \eCC+%s\eS0%%\eR (최대 %s\eS2%%)
+42	4452.0	\eCE속성 계열 나무\eR가 출현할 때마다 증표\eCE「%s\eS0」\eR을(를) \eCC+%s\eS1\eR개 획득	\eCE속성 계열 어린나무\eR가 출현할 때마다 증표 \eCE「%s\eS0」\eR을(를) \eCC+%s\eS1개\eR 획득
+42	4455.0	속성 계열 증표를 획들할 때마다 \eCE%s\eS0구획\eR 사이 \eUF공격력 \eCC+%s\eS1%%\eR	속성 계열 증표를 획득하면 \eCE%s\eS0구획\eR 동안 \eUF공격력 \eCC+%s\eS1%%\eR
+42	4464.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC증가한다\eR
+42	4467.0	\eCE소비한\eUB피눈물 %s\eS0\eR당 \eUF공격력\eCC%s\eS1%%\eR (최대 %s\eS2%%)	\eCE소비한 \eUB피눈물 %s\eS0개\eR당 \eUF공격력 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4478.0	\eCE모든 공격 액션\eR이 해방되었습니다	\eCE모든 공격 액션\eR이 해방된다
+42	4487.0	%s\eS3구획 중 \eUF공격력 \eCC+%s\eS0%%\eR, 적\eCE장벽\eR에 대한 \eUF 공격력 \eCC+%s\eS1%%\eR	%s\eS3구획 중 \eUF공격력 \eCC+%s\eS0%%\eR, 적 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+42	4497.0	조작 중인 영걸 및 소환기의 \eUI공격범위가\eCC조금 증가한다\eR	조작 중인 영걸 및 소환기의 \eUI공격범위가 \eCC조금 증가한다\eR
+42	4498.0	\eCE교대 게이지\eR가 서서히\eCC상승한다\eR	\eCE교대 게이지\eR가 서서히 \eCC상승한다\eR
+42	4503.0	\eCE%s\eS2구역\eR 동안 교대가 비활성화됩니다. 그 후 \eCE공격\eR 시 폭발하여 주위의 적에게 \eCE추가 피해\eR가 발생합니다.	\eCE%s\eS2구획\eR 동안 교대가 비활성화됩니다. 그 후 \eCE공격\eR 시 폭발하여 주위의 적에게 \eCE추가 피해\eR가 발생합니다.
+42	4504.0	적을 공격하면 주위 적에게 \eCE화상 상태\eR로 만드는 폭발 발생	적을 격파하면 주위의 적을 \eCE화상 상태\eR로 만드는 폭발 발생
+42	4505.0	\eCE찬란히 빛나는 복숭아나무\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR \eCC%s\eS0개\eR 획득	\eCE강하게 빛나는 정파리의 어린나무\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR \eCC%s\eS0개\eR 획득
+42	4510.0	\eCE교대 중\eR \eUF공격 및 적의 \eCE장벽\eR에 대한 \eUF 공격력 \eCC+%s\eS0%%\eR	\eCE교대 중\eR \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS0%%\eR
+42	4513.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 사이 각 구획 전투개시 시 \eCE교대 게이지 \eR\eCC+%s\eS0%%\eR	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 각 구획 전투개시 시 \eCE교대 게이지\eR \eCC+%s\eS0%%\eR
+42	4522.0	해당 \eCE수행 특성\eR 발동 후 \eCE%s\eS2구획\eR 동안 교대가 불가능해진다. 그 후 \eCE층의 주인\eR에 대한 \eUF공격력 \eCC+80%%\eR	\eCE%s\eS2구획\eR 동안 교대가 불가능해진다. 그 후 \eCE층의 주인\eR에 대한 \eUF공격력 \eCC+80%%\eR
+42	4565.0	속성 공격력 \eCC+%s\eS0%%\eR	모든 속성 공격력 \eCC+%s\eS0%%\eR
+42	4570.0	\eCE통상공격\eR 과 \eCE차지 공격\eR 후에 폭발하여 주위의 적을 \eCE화상 상태\eR로 만드는 \eCE추가 피해\eR 발생	\eCE통상공격\eR과 \eCE차지공격\eR 후에 폭발하여 주위의 적을 \eCE화상 상태\eR로 만드는 \eCE추가 피해\eR 발생
+42	4654.0	\eCE유보\eR를 \eCD뺏기고\eR 대신 \eCE\eUD파리의 물방울\eR을 \eCC개 획득한다\eR	\eCE유보\eR를 \eCD뺏기고\eR 대신 \eCE\eUD파리의 물방울\eR을 \eCC획득한다\eR
+42	4656.0	\eCE\eUB피눈물\eR \eCC+\eR\eCC	\eCE\eUB피눈물\eR \eCC+%s\eS0\eR
+42	4659.0	\eCE해당 보물 상자\eR에서 획득 가능한 \eUB피눈물이 \eCC증가한다\eR	\eCE해당 보물 상자\eR에서 획득 가능한 \eUB피눈물이 \eCC대폭 증가한다\eR
+42	4701.0	\eCE소비한\eUB피눈물 %s\eS0\eR당 \eUF공격력\eCC%s\eS1%%\eR (최대 %s\eS2%%)	\eCE소비한 \eUB피눈물 %s\eS0개\eR당 \eUF공격력 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4706.0	\eCE소비한\eUB피눈물 %s\eS0\eR당 \eUF공격력\eCC%s\eS1%%\eR (최대 %s\eS2%%)	\eCE소비한 \eUB피눈물 %s\eS0개\eR당 \eUF공격력 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4711.0	미에서 환영의 \eCC유혹에 빠지지 않는다\eR	미션에서 환영의 \eCC유혹에 빠지지 않는다\eR
+42	4712.0	조작 영걸이 현재 발동중인 \eCE고유 전법과 관련된 \eCE증표를 지닌 영웅\eR으로 간주한다	조작 영걸이 발동 중인 모든 \eCE고유 전법\eR에서 \eCE증표를 지닌 영걸\eR로 간주된다
+42	4716.0	미에서 환영의 \eCC유혹에 빠지지 않는다\eR	미션에서 환영의 \eCC유혹에 빠지지 않는다\eR
+42	4717.0	조작 영걸이 현재 발동중인 \eCE고유 전법과 관련된 \eCE증표를 지닌 영웅\eR으로 간주한다	조작 영걸이 발동 중인 모든 \eCE고유 전법\eR에서 \eCE증표를 지닌 영걸\eR로 간주된다
+42	4744.0	유보\eCE「적토마」\eR를 소지하고 있으면, 무교대 게이지 획득량 \eCC+%s\eS0%%\eR	유보 \eCE「적토마」\eR를 소지하고 있으면 무쌍 게이지 획득량 \eCC+%s\eS0%%\eR
+42	4749.0	유보\eCE「적토마」\eR를 소지하고 있으면, 무교대 게이지 획득량 \eCC+%s\eS0%%\eR	유보 \eCE「적토마」\eR를 소지하고 있으면 무쌍 게이지 획득량 \eCC+%s\eS0%%\eR
+42	4752.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUF공격력 \eCC-%s\eS3%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUF공격력 \eCC+%s\eS3%%\eR
+42	4753.0	각 충의 첫 구획에서 \eCE강하게 빛나는 어린나무\eR가 출현할 확률 대폭 증가	각 층의 첫 구획에서 \eCE강하게 빛나는 어린나무\eR가 출현할 확률 대폭 증가
+42	4754.0	증표 \eCE「%s\eS0」\eR 1개당 \eUG방어력 \eCC+%s\eS1%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUG방어력 \eCC-%s\eS3%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUG방어력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUG방어력 \eCC+%s\eS3%%\eR
+42	4757.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUF공격력 \eCC-%s\eS3%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUF공격력 \eCC+%s\eS3%%\eR
+42	4758.0	각 충의 첫 구획에서 \eCE강하게 빛나는 어린나무\eR가 출현할 확률 대폭 증가	각 층의 첫 구획에서 \eCE강하게 빛나는 어린나무\eR가 출현할 확률 대폭 증가
+42	4759.0	증표 \eCE「%s\eS0」\eR 1개당 \eUG방어력 \eCC+%s\eS1%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUG방어력 \eCC-%s\eS3%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUG방어력 \eCC+%s\eS1%%\eR\n증표 \eCE「%s\eS2」\eR 1개당 \eUG방어력 \eCC+%s\eS3%%\eR
+42	4771.0	\eCE대왕의 가마솥\eR이 출현할 때마다 증표\eCE「%s\eS0」\eR의 소지 수\eCC+%s\eS1%%\eR (최대 %s\eS2)	\eCE대왕의 가마솥\eR이 출현할 때마다 증표 \eCE「%s\eS0」\eR의 소지 수 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4776.0	\eCE대왕의 가마솥\eR이 출현할 때마다 증표\eCE「%s\eS0」\eR의 소지 수\eCC+%s\eS1%%\eR (최대 %s\eS2)	\eCE대왕의 가마솥\eR이 출현할 때마다 증표 \eCE「%s\eS0」\eR의 소지 수 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4792.0	\eCE위험지대\eR에서 \eUF공격력 \eCC+%s\eS0%%\eR\eR\n \eUG방어\eCD-%s\eS1%%\eR	\eCE위험지대\eR에서 \eUF공격력 \eCC+%s\eS0%%\eR\n\eUG방어력 \eCD-%s\eS1%%\eR
+42	4797.0	\eCE위험지대\eR에서 \eUF공격력 \eCC+%s\eS0%%\eR\eR\n \eUG방어\eCD-%s\eS1%%\eR	\eCE위험지대\eR에서 \eUF공격력 \eCC+%s\eS0%%\eR\n\eUG방어력 \eCD-%s\eS1%%\eR
+42	4821.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4822.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4826.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4827.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4830.0	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과\eUG방어력 \eCC+%s\eS3%%\eR	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과 \eUG방어력 \eCC+%s\eS3%%\eR
+42	4831.0	%s\eS1구획 동안\eR \eCE위험지대\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR 획득	%s\eS1구획 동안 \eCE위험지대\eR를 돌파할 때마다 \eCE\eUD파리의 물방울\eR 획득
+42	4835.0	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과\eUG방어력 \eCC+%s\eS3%%\eR	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과 \eUG방어력 \eCC+%s\eS3%%\eR
+42	4836.0	%s\eS1구획 동안\eR \eCE위험지대\eR가 출현할 때마다 \eCE\eUD파리의 물방울\eR 획득	%s\eS1구획 동안 \eCE위험지대\eR를 돌파할 때마다 \eCE\eUD파리의 물방울\eR 획득
+42	4850.0	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과\eR 공격 속도 \eCC+%s\eS4%%\eR	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력 \eCC+%s\eS3%%\eR, 공격 속도 \eCC+%s\eS4%%\eR
+42	4855.0	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력과\eR 공격 속도 \eCC+%s\eS4%%\eR	증표 \eCE「%s\eS0」「%s\eS1」「%s\eS2」\eR을(를) 가진 영걸의\n\eUF공격력 \eCC+%s\eS3%%\eR, 공격 속도 \eCC+%s\eS4%%\eR
+42	4860.0	\eCE%s\eS0체\eR 격파하면 \eCC%s\eS1초간\eR 공격을 막는 장벽을 친다	\eCE%s\eS0체\eR 격파하면 \eCC%s\eS2초간\eR 공격을 막는 장벽을 친다
+42	4861.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4863.0	\eCE속성 계열 증표 \eR 1개당 \eUF공격력 및 \eUH민첩 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUH민첩 \eCC+%s\eS1%%\eR
+42	4864.0	\eCE복숭아 나무\eR가 출현할 때마다 증표\eCE「%s\eS0」\eR의 소지 수\eCC+%s\eS1%%\eR(최대 %s\eS2%%)	\eCE복숭아나무\eR가 출현할 때마다 증표 \eCE「%s\eS0」\eR의 소지 수 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4865.0	\eCE%s\eS0체\eR 격파하면 \eCC%s\eS1초간\eR 공격을 막는 장벽을 친다	\eCE%s\eS0체\eR 격파하면 \eCC%s\eS2초간\eR 공격을 막는 장벽을 친다
+42	4866.0	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUG방어력 \eCC+%s\eS1%%\eR
+42	4868.0	\eCE속성 계열 증표 \eR 1개당 \eUF공격력 및 \eUH민첩 \eCC+%s\eS1%%\eR	증표 \eCE「%s\eS0」\eR 1개당 \eUF공격력 및 \eUH민첩 \eCC+%s\eS1%%\eR
+42	4869.0	\eCE복숭아 나무\eR가 출현할 때마다 증표\eCE「%s\eS0」\eR의 소지 수\eCC+%s\eS1%%\eR(최대 %s\eS2%%)	\eCE복숭아나무\eR가 출현할 때마다 증표 \eCE「%s\eS0」\eR의 소지 수 \eCC+%s\eS1%%\eR (최대 %s\eS2%%)
+42	4870.0	모든 영걸이 발동중인 \eCE고유 전법\eR과 관련된 \eCE증표를 지닌 영웅\eR으로 간주한다	모든 영걸이 발동 중인 \eCE고유 전법\eR에서 \eCE증표를 지닌 영걸\eR로 간주된다
+42	4874.0	 \eCE유보\eR 1개당 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR	\eCE유보\eR 1개당 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+42	4875.0	모든 영걸이 발동중인 \eCE고유 전법\eR과 관련된 \eCE증표를 지닌 영웅\eR으로 간주한다	모든 영걸이 발동 중인 \eCE고유 전법\eR에서 \eCE증표를 지닌 영걸\eR로 간주된다
+42	4879.0	 \eCE유보\eR 1개당 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR	\eCE유보\eR 1개당 \eUF공격력 및 적의 \eCE장벽\eR에 대한 \eUF공격력 \eCC+%s\eS1%%\eR
+182	11.0		%s\eS0을(를) %s\eS1개 개봉했습니다.
+182	168.0		사용할 수 없는 다운로드 콘텐츠로 인해\n출발할 수 없습니다.
+182	201.0		이 영걸은 다운로드 콘텐츠를 통해\n혼결을 할 수 있게 됩니다.
+182	206.0	커스터마이즈 설정に\eCE「층의 왕 변경」\eR이 추가되었습니다.\n오리지널 모드와 연마의 문에 등장하는 층의 왕을 변경할 수 있습니다.	커스터마이즈 설정에 \eCE「층의 왕 변경」\eR이 추가되었습니다.\n오리지널 모드와 연마의 문에 등장하는 층의 왕을 변경할 수 있습니다.
+200	9.0		미션 실패로 \eA2%s\eS0\eR 출현!
+200	10.0		미션 실패로 \eA2%s\eS0\eR이(가) %s\eS1체 출현!
+435	53.0	일정 시간 아군의 민첩을 증가시키는\n공간을 만든다	일정 시간 아군의 공격 속도와 민첩을 증가시키는\n공간을 만든다
+435	102.0	착탄시 폭발하는 뇌속성과 화속성 아이템을 투척한다.	착탄 시 폭발하는 뇌속성과 염속성 아이템을 투척한다.
+435	103.0	착탄시 폭발하는 뇌속성과 화속성 탄을 발사한다.	착탄 시 폭발하는 염속성과 빙속성 탄을 발사한다.
+435	104.0	회전하는 풍속성 칼날을 날린 후, 전방에 참속성 칼날을 날린다.	회전하는 풍속성 칼날을 날린 후, 전방에 참속성 칼날을 여러 개 날린다.
+435	105.0	일정 거리 이동 후 폴발하는\n화속성 탄을 발사한다	일정 거리 이동 후 폭발하는\n염속성 탄을 발사한다
+435	108.0	장애물에 부딪히면 다시 튀는\n화속성 화살을 발사한다	장애물에 부딪히면 다시 튀는\n염속성 화살을 발사한다
+435	109.0	강풍 상태인 적에게서 체력을 흡수한다.  	적을 강풍 상태로 만들고,\n상태 이상에 걸린 적의 체력을 흡수한다.
+489	69.0		이 키는 이미 %s\eS0에 할당되어 있습니다.\n정말 변경하시겠습니까?

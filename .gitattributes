@@ -1,0 +1,5 @@
+*.tsv text eol=lf
+*.py text eol=lf
+*.cs text
+*.ps1 text
+*.md text
